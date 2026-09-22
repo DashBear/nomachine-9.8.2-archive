@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1.dmg" source="original">
+    <mtime>1786208989</mtime>
+    <size>107255503</size>
+    <md5>6baea8a9cf33650e83890e024e54ca98</md5>
+    <crc32>0e959c22</crc32>
+    <sha1>76c2828776e6c3ba30a0560aab221e25bf80b259</sha1>
+    <format>Mac OS X Disk Image</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_amd64.deb" source="original">
+    <mtime>1786208944</mtime>
+    <size>81328566</size>
+    <md5>29f24af614a1cd3da4e69c407fe31b2a</md5>
+    <crc32>e772780a</crc32>
+    <sha1>e6a76ef90cf04df63c01b1751c0c592e6e00f442</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_i386.deb" source="original">
+    <mtime>1786209032</mtime>
+    <size>79385574</size>
+    <md5>9c6319d0f1bb7e6ca4de1df6717424e7</md5>
+    <crc32>ff626dd5</crc32>
+    <sha1>029fd557833f39223fc6b3b005c644e7e0f87367</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_i686.rpm" source="original">
+    <mtime>1786209026</mtime>
+    <size>79963216</size>
+    <md5>8b6f938382703307ce56cf72762db345</md5>
+    <crc32>ec3897d5</crc32>
+    <sha1>93fbf5dcd2b68409801dae56c75f918597b4ee1d</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_i686.tar.gz" source="original">
+    <mtime>1786209000</mtime>
+    <size>79327514</size>
+    <md5>9dd576bba15bf99250d5c2dbc8144abd</md5>
+    <crc32>b1946010</crc32>
+    <sha1>7187a609f81e387bcb7996267b9f4b2193c32615</sha1>
+    <format>GZIP</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_x64.exe" source="original">
+    <mtime>1786208996</mtime>
+    <size>80797352</size>
+    <md5>26ae4064ff60c205a4076910ab13ba62</md5>
+    <crc32>1fb280ba</crc32>
+    <sha1>08a6dc0abd43bddb6ea34ccb890a4f0b19f4b751</sha1>
+    <format>Windows Executable</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_x86.exe" source="original">
+    <mtime>1786209042</mtime>
+    <size>103867064</size>
+    <md5>f8eca4a0787fe32345e46ffa1b1b5087</md5>
+    <crc32>be732638</crc32>
+    <sha1>d0dba59394f37803618551dddef10158736c69bb</sha1>
+    <format>Windows Executable</format>
+  </file>
+  <file name="NoMachine 9.8.2/nomachine_9.8.2_1_x86_64.rpm" source="original">
+    <mtime>1786209004</mtime>
+    <size>81905019</size>
+    <md5>0f68f1819603824102f1c9ba4d054b5e</md5>
+    <crc32>04ec3b6a</crc32>
+    <sha1>50ae57d35e1165f4fe2dec614eb011a16e54dab9</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-Raspberry/nomachine_9.8.2_1_aarch64.rpm" source="original">
+    <mtime>1786209100</mtime>
+    <size>78339417</size>
+    <md5>22c195f8868f89a7cb10ed4086806bec</md5>
+    <crc32>115edf92</crc32>
+    <sha1>d94a484bfa8408bacc8f8d6e346a6860b694909e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-Raspberry/nomachine_9.8.2_1_aarch64.tar.gz" source="original">
+    <mtime>1786209124</mtime>
+    <size>77683970</size>
+    <md5>e71b2948bfca25f2757935e758834147</md5>
+    <crc32>251b95d5</crc32>
+    <sha1>5c2928feaed7e78c195f36124fe3a42df396d050</sha1>
+    <format>GZIP</format>
+  </file>
+  <file name="arm-Raspberry/nomachine_9.8.2_1_arm64.deb" source="original">
+    <mtime>1786209097</mtime>
+    <size>77572252</size>
+    <md5>a37b55297944b941d00973dd83b669fd</md5>
+    <crc32>c4f2b6d3</crc32>
+    <sha1>a46cdfe7915253ce7004019cd9b9a9f2a241bc88</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-Raspberry/nomachine_9.8.2_1_armhf.deb" source="original">
+    <mtime>1786209111</mtime>
+    <size>74692898</size>
+    <md5>de52e39532d031d920c4b31377d1bc3c</md5>
+    <crc32>54560e2e</crc32>
+    <sha1>ee09538004ee3f5832d12c56b279c047c0206722</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-Raspberry/nomachine_9.8.2_1_armv7hl.rpm" source="original">
+    <mtime>1786209092</mtime>
+    <size>75436962</size>
+    <md5>3f5c3a7628b120dc088415cfdfaf468b</md5>
+    <crc32>27b2857c</crc32>
+    <sha1>d13c889242239e6e93cd71b216bdf42cce476eae</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-Raspberry/nomachine_9.8.2_1_armv7hl.tar.gz" source="original">
+    <mtime>1786209104</mtime>
+    <size>74790887</size>
+    <md5>d8c1c5b039905083520bc1f8c7b4fd5a</md5>
+    <crc32>d2b5637e</crc32>
+    <sha1>7f017b87b5f3c8d19b368a16eb348df1dc5aa6a8</sha1>
+    <format>GZIP</format>
+  </file>
+  <file name="arm-other/nomachine_9.8.2_1_aarch64.rpm" source="original">
+    <mtime>1786209061</mtime>
+    <size>78339417</size>
+    <md5>22c195f8868f89a7cb10ed4086806bec</md5>
+    <crc32>115edf92</crc32>
+    <sha1>d94a484bfa8408bacc8f8d6e346a6860b694909e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-other/nomachine_9.8.2_1_aarch64.tar.gz" source="original">
+    <mtime>1786209087</mtime>
+    <size>77683970</size>
+    <md5>e71b2948bfca25f2757935e758834147</md5>
+    <crc32>251b95d5</crc32>
+    <sha1>5c2928feaed7e78c195f36124fe3a42df396d050</sha1>
+    <format>GZIP</format>
+  </file>
+  <file name="arm-other/nomachine_9.8.2_1_arm64.deb" source="original">
+    <mtime>1786209055</mtime>
+    <size>77572252</size>
+    <md5>a37b55297944b941d00973dd83b669fd</md5>
+    <crc32>c4f2b6d3</crc32>
+    <sha1>a46cdfe7915253ce7004019cd9b9a9f2a241bc88</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-other/nomachine_9.8.2_1_armhf.deb" source="original">
+    <mtime>1786209080</mtime>
+    <size>74692898</size>
+    <md5>de52e39532d031d920c4b31377d1bc3c</md5>
+    <crc32>54560e2e</crc32>
+    <sha1>ee09538004ee3f5832d12c56b279c047c0206722</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-other/nomachine_9.8.2_1_armv7hl.rpm" source="original">
+    <mtime>1786209051</mtime>
+    <size>75436962</size>
+    <md5>3f5c3a7628b120dc088415cfdfaf468b</md5>
+    <crc32>27b2857c</crc32>
+    <sha1>d13c889242239e6e93cd71b216bdf42cce476eae</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="arm-other/nomachine_9.8.2_1_armv7hl.tar.gz" source="original">
+    <mtime>1786209068</mtime>
+    <size>74790887</size>
+    <md5>d8c1c5b039905083520bc1f8c7b4fd5a</md5>
+    <crc32>d2b5637e</crc32>
+    <sha1>7f017b87b5f3c8d19b368a16eb348df1dc5aa6a8</sha1>
+    <format>GZIP</format>
+  </file>
+  <file name="nomachine_9.8.2_1_202608_archive.torrent" source="metadata">
+    <btih>7ac9cdba389ef61e1061fc0438dd00201016d494</btih>
+    <mtime>1786209564</mtime>
+    <size>36501</size>
+    <md5>858fe167e22cd3657acc0d5193cbdff3</md5>
+    <crc32>e5936dc0</crc32>
+    <sha1>8c775126f8c96451bd6e956bac249af3092ea9cd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="nomachine_9.8.2_1_202608_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2cbea9b436bfe39bc441e7af78afa9c1</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="nomachine_9.8.2_1_202608_meta.sqlite" source="original">
+    <mtime>1786209127</mtime>
+    <size>331776</size>
+    <md5>9411c0c8a60be0e9249237bc17225612</md5>
+    <crc32>66fa11e5</crc32>
+    <sha1>f7db25e35a7b420390af6a99a2e2e0c8ef3cc141</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="nomachine_9.8.2_1_202608_meta.xml" source="original">
+    <mtime>1786209547</mtime>
+    <size>10260</size>
+    <md5>79a7dbaa9c4c762c5ea6d7cee47ec302</md5>
+    <crc32>68628579</crc32>
+    <sha1>267c1ae8c66386f7fff377e8545fe5cd181c0c86</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="nomachine_9.8.2_downloads.txt" source="original">
+    <mtime>1786209045</mtime>
+    <size>1496</size>
+    <md5>e221e58d8a7add194377c16fe7d57e48</md5>
+    <crc32>17cd10a3</crc32>
+    <sha1>01b70787629ef5568f16723c18f68a2b5f61fb19</sha1>
+    <format>Text</format>
+    <viruscheck>1786209547</viruscheck>
+  </file>
+</files>

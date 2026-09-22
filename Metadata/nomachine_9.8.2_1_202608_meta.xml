@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>nomachine_9.8.2_1_202608</identifier>
+  <mediatype>software</mediatype>
+  <collection>open_source_software</collection>
+  <creator>NoMachine Development Team</creator>
+  <date>2026-07-09</date>
+  <description>&lt;div&gt;NoMachine 9.8.2 for Linux, macOS and Windows. &lt;/div&gt;&lt;div&gt;Final free version, pulled directly from NoMachine servers in August 2026 after the release of paid NoMachine 10&lt;br /&gt;&lt;br /&gt;-----&lt;br /&gt;&lt;br /&gt;&lt;h2 class="kb-content-title"&gt;NoMachine 9.8.2 now available for download&lt;/h2&gt;                &lt;div class="kb-content tableRowLast"&gt;
+                    
+&lt;p class="wp-block-paragraph"&gt;Luxembourg, July 9th, 2026&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;NoMachine makes available version 9.8.2 to
+ provide fixes for some issues affecting previous releases and prevent 
+potential privilege escalations on the server side.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Trouble Reports solved in version 9.8.2:&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;TR05X11831 - Cut&amp;amp;paste of a file from remote to local Windows may result in an empty file Device Services &lt;br /&gt;TR07X11872 - Authentication may fail when creating new VNC desktops via web&lt;br /&gt;TR07X11876 - Keyboard input not working in Web Player embedded in Unreal Engine CEF&lt;br /&gt;TR06X11847 - Syslog support may not work on redhat-based Linux distributions&lt;br /&gt;TR08W11537 - Misleading message when using a SBS license with Small Business Terminal Server&lt;br /&gt;TR06X11862 - The subscription info process may hang when started during a NoMachine Service restart&lt;br /&gt;TR06X11869 - Possible escalation of privileges by impersonating the nx user &lt;br /&gt;TR06X11867 - Possible privilege escalation by arbitrary code injection in the 'nxserver --login' process&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Supported Platforms&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Windows 32-bit/64-bit 7/8/8.1/10/11&lt;br /&gt;Windows Server 2008/2012/2016/2019/2022/2025&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Mac Intel OS X 10.9 to 10.11, macOS 10.12 to 26&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Linux 32-bit and 64-bit&lt;br /&gt;RHEL 6.0 to RHEL 10&lt;br /&gt;CentOS 6.0 to CentOS 8.5&lt;br /&gt;CentOS Stream 8 to CentOS Stream 10&lt;br /&gt;SLED 11 to SLED 15&lt;br /&gt;SLES 11 to SLES 15&lt;br /&gt;openSUSE 11.x to openSUSE 16.x&lt;br /&gt;Fedora 10 to Fedora 44&lt;br /&gt;Debian 5 to Debian 13&lt;br /&gt;Ubuntu 8.04 to Ubuntu 26.04&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Raspberry Pi 2 ARMv7&lt;br /&gt;Raspberry Pi 3 ARMv7/ARMv8&lt;br /&gt;Raspberry Pi 4 ARMv7/ARMv8&lt;br /&gt;Raspberry Pi 5 ARMv7/ARMv8&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;ARMv7/ARMv8&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Important Notices&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Customers of Enterprise Cloud Server Cluster v8 who wish to upgrade to v9 should refer to the instructions at: &lt;a href="https://www.nomachine.com/AR11V01257" rel="ugc nofollow"&gt;https://www.nomachine.com/AR11V01257&lt;/a&gt;.
+ 'Online' subscriptions v9 for the enterprise products require a 
+NoMachine server v9 and are not compatible with servers v8 or earlier. 
+Please do not hesitate to contact us via any of the available channels 
+for assistance.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;All NoMachine Enterprise software for 
+evaluation can now be activated using a license file which is generated 
+from the User Area and activated online.  For further instructions, 
+users can consult the following article &lt;a href="https://kb.nomachine.com/AR10K00713" rel="ugc nofollow"&gt;https://kb.nomachine.com/AR10K00713&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The RPM packages are now built using a 
+more recent version of RPM in order to support also SHA256 digest and to
+ allow signature verification on recent RPM-based systems. On old OS 
+versions like Open SUSE 11.2 and earlier, it will be necessary to 
+install NoMachine tar.gz packages.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The current version doesn't provide full 
+support for Wayland-native virtual desktops as required by adopting 
+GNOME 49, a possible temporary solution is to downgrade GNOME or adopt a
+ lightweight desktop. More details are available here: &lt;a href="https://kb.nomachine.com/AR10W01330" rel="ugc nofollow"&gt;https://kb.nomachine.com/AR10W01330&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Download NoMachine Packages&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;You can download the latest packages suitable for your Operating System from the NoMachine Web site at the following URL: &lt;a href="https://download.nomachine.com/" rel="ugc nofollow"&gt;https://download.nomachine.com&lt;/a&gt; .
+ Customers holding a valid subscription can log in to their User Area 
+and download the appropriate server package for their subscription from 
+the Enterprise &amp;gt; Downloads section. Note that Support Contacts are no
+ longer entitled to access packages from the Customer's User Area. They 
+can however download the appropriate package from the &lt;a href="https://download.nomachine.com/enterprise/" rel="ugc nofollow"&gt;https://download.nomachine.com/enterprise/&lt;/a&gt; page.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Automatic updates&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The automatic check for updates is scheduled to check our repositories every two days.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;To update the free NoMachine package:&lt;br /&gt;- Open the NoMachine User Interface from your Programs Menu.&lt;br /&gt;- From the Machines panel click on 'Settings', then on 'Server' and finally on 'Updates'.&lt;br /&gt;- Then click on the 'Check now' button.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;To update the NoMachine Enterprise Client immediately:&lt;br /&gt;- Click on 'Settings', from the Player panel click 'Updates'.&lt;br /&gt;- Then click on the 'Check now' button.&lt;br /&gt;&lt;br /&gt;More information about the check for automatic updates is available here:&lt;br /&gt;&lt;a href="https://www.nomachine.com/AR05M00847" rel="ugc nofollow"&gt;https://www.nomachine.com/AR05M00847&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Manual package installation or update&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Please follow the instructions to install the package or update your installation manually:&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On Windows:&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;- Download and save the EXE file.&lt;br /&gt;- Double click on the NoMachine executable file.&lt;br /&gt;&lt;br /&gt;The Setup Wizard will take you through all steps necessary for installing or updating NoMachine.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On macOS:&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;- Download and save the DMG file.&lt;br /&gt;- Double-click on the Disk Image to open it and double-click on the NoMachine program icon.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Installer will take you through all steps necessary for installing or updating NoMachine.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On Linux:&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;You can use the graphical package manager 
+provided by your Linux distribution or update NoMachine by command line 
+by following instructions below. If you don't have the sudo utility 
+installed, log on as superuser ("root") and run the commands without 
+sudo.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;RPM&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;- Download and save the RPM file.&lt;br /&gt;- Install the package by running:&lt;br /&gt;# rpm -ivh pkgName_pkgVersion_arch.rpm&lt;br /&gt;&lt;br /&gt;or update your NoMachine installation by running:&lt;br /&gt;# rpm -Uvh pkgName_pkgVersion_arch.rpm&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;DEB&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;- Download and save the DEB file.&lt;br /&gt;- Install the package by running:&lt;br /&gt;$ sudo dpkg -i pkgName_pkgVersion_arch.deb&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;or update your NoMachine installation by running:&lt;br /&gt;$ sudo dpkg -i pkgName_pkgVersion_arch.deb&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;TAR.GZ&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;- Download and save the TAR.GZ file.&lt;br /&gt;- Install the package by running:&lt;br /&gt;$ cd /usr&lt;br /&gt;$ sudo tar xvzf .tar.gz&lt;br /&gt;$ sudo /usr/NX/nxserver --install &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;or update your NoMachine installation by running:&lt;br /&gt;$ cd /usr&lt;br /&gt;$ sudo tar xvzf .tar.gz&lt;br /&gt;$ sudo /usr/NX/nxserver --update&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;If you are installing Enterprise Client or Node run respectively:&lt;br /&gt;$ sudo /usr/NX/nxclient --update&lt;br /&gt;$ sudo /usr/NX/nxnode --update&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Documents&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Installation and configuration guides for the NoMachine products are available at: &lt;a href="https://www.nomachine.com/support/documents" rel="ugc nofollow"&gt;https://www.nomachine.com/support/documents&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The NoMachine Development Team&lt;/p&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;</description>
+  <scanner>Internet Archive HTML5 Uploader 1.7.0</scanner>
+  <subject>nomachine</subject>
+  <title>nomachine_9.8.2_1</title>
+  <subject>nx</subject>
+  <subject>software</subject>
+  <subject>remote access</subject>
+  <subject>free</subject>
+  <uploader>ergosteur@1qaz.ca</uploader>
+  <publicdate>2026-08-08 17:09:48</publicdate>
+  <addeddate>2026-08-08 17:09:48</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20260808171907[/date][comment]checked for malware[/comment]</curation>
+</metadata>
